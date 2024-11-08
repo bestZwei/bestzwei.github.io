@@ -4,7 +4,7 @@
 
 # Site
 title: Zwei's Blog
-subtitle: ''
+subtitle: '「 太平世界，环球同此凉热 」'
 description: ''
 keywords:
 author: Zwei
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://zwei.de.eu.org
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
